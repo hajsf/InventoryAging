@@ -1,4 +1,4 @@
-# InventoryAging
+# Inventory Aging
 
 Inventory aging, and product tracking are two important issues that are usually monitoring through `Batch Control`.
 As some system not having batch control setup, doing the above will take lots of manual efforts depending of the volume of data to be processed. specially once you are working with multiple warehouses.
